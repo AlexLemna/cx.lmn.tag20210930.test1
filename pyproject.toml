@@ -2,7 +2,8 @@
 name = "cx.lmn.tag20210930.test1"
 requires-python = ">= 3.12"
 dynamic = ["version"]
-dependencies = []
+readme = "README.md"
+license = { text = "MIT License" }
 
 [project.optional-dependencies]
 dev = [
