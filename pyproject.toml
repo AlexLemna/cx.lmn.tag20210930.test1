@@ -4,6 +4,7 @@ requires-python = ">= 3.12"
 dynamic = ["version"]
 readme = "README.md"
 license = { text = "MIT License" }
+urls.repository = "https://github.com/AlexLemna/cx.lmn.tag20210930.test1"
 
 [project.optional-dependencies]
 dev = [
